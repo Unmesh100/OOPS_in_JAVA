@@ -14,6 +14,6 @@ Object-Oriented Programming is a programming paradigm that revolves around the c
 
 ### Read My Blog
 
-Explore our blog at [Read My Blog]() for in-depth insights into Object-Oriented Programming.
+Explore our blog at [Read My Blog](https://javaug.hashnode.dev/oops-in-java) for in-depth insights into Object-Oriented Programming.
 
 Happy reading!
